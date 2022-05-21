@@ -12,8 +12,8 @@ __author__ = 'Vas Vasiliadis <vas@uchicago.edu>'
 
 import sys
 import os
-import file_utils as fu
-import annotate as ann
+import anntools.file_utils as fu
+import anntools.annotate as ann
 
 def run(infile, format):
 

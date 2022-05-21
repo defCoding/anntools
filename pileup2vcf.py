@@ -12,7 +12,7 @@ __author__ = 'Vas Vasiliadis <vas@uchicago.edu>'
 
 import os
 import datetime
-import file_utils as fu
+import anntools.file_utils as fu
 
 HETERO = {'M':'AC', 'R':'AG', 'W':'AT', 'S':'CG', 'Y':'CT', 'K':'GT'}
 ACCEPTED_CHR = ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", 

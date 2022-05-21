@@ -10,8 +10,8 @@
 ##
 __author__ = 'Vas Vasiliadis <vas@uchicago.edu>'
 
-import file_utils as fu
-import utils as u
+import anntools.file_utils as fu
+import anntools.utils as u
 
 indicesKnownGenes=[12, 1, 3] #12 for gene
 
